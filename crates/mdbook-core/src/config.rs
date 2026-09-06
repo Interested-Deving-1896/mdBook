@@ -738,9 +738,10 @@ impl<'de, T> Updateable<'de> for T where T: Serialize + Deserialize<'de> {}
 #[derive(Debug, Copy, Clone, PartialEq, Serialize, Deserialize)]
 #[serde(rename_all = "lowercase", deny_unknown_fields)]
 #[non_exhaustive]
+#[repr(usize)]
 pub enum BuiltinTheme {
     /// A dark theme with a balanced color palette.
-    Ayu,
+    Ayu = 0,
     /// A dark theme with a gray-on-gray aesthetic.
     Coal,
     /// A light theme optimized for readability.
@@ -749,11 +750,13 @@ pub enum BuiltinTheme {
     Navy,
     /// A rust-colored theme.
     Rust,
+    #[doc(hidden)]
+    Max,
 }
 
 impl BuiltinTheme {
     /// An array of all built-in themes, in the order they should be displayed in the theme selector.
-    pub const ALL: [BuiltinTheme; 5] = [
+    pub const ALL: [BuiltinTheme; BuiltinTheme::Max as usize] = [
         BuiltinTheme::Light,
         BuiltinTheme::Rust,
         BuiltinTheme::Coal,
