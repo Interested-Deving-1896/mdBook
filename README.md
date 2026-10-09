@@ -81,11 +81,11 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@epage](https://github.com/epage) | 9 |
 | [@camelid](https://github.com/camelid) | 9 |
 | [@tshepang](https://github.com/tshepang) | 9 |
-| [@alexchen-sys](https://github.com/alexchen-sys) | 8 |
-| [@DanielEScherzer](https://github.com/DanielEScherzer) | 8 |
-| [@dependabot[bot]](https://github.com/apps/dependabot) | 8 |
-| [@klensy](https://github.com/klensy) | 8 |
+| [@Bobo1239](https://github.com/Bobo1239) | 8 |
 | [@leonzchang](https://github.com/leonzchang) | 8 |
+| [@klensy](https://github.com/klensy) | 8 |
+| [@dependabot[bot]](https://github.com/apps/dependabot) | 8 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 8 |
 <!-- AI:end:contributors -->
 
 ## Origins
