@@ -60,7 +60,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@azerupi](https://github.com/azerupi) | 427 |
 | [@Michael-F-Bryan](https://github.com/Michael-F-Bryan) | 213 |
 | [@mattico](https://github.com/mattico) | 105 |
-| [@GuillaumeGomez](https://github.com/GuillaumeGomez) | 102 |
+| [@GuillaumeGomez](https://github.com/GuillaumeGomez) | 103 |
 | [@Dylan-DPC](https://github.com/Dylan-DPC) | 58 |
 | [@budziq](https://github.com/budziq) | 56 |
 | [@joshrotenberg](https://github.com/joshrotenberg) | 53 |
@@ -74,11 +74,11 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@JaimeValdemoros](https://github.com/JaimeValdemoros) | 18 |
 | [@frewsxcv](https://github.com/frewsxcv) | 15 |
 | [@mbrubeck](https://github.com/mbrubeck) | 13 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 12 |
 | [@ISSOtm](https://github.com/ISSOtm) | 12 |
-| [@mdinger](https://github.com/mdinger) | 11 |
 | [@sunng87](https://github.com/sunng87) | 11 |
+| [@mdinger](https://github.com/mdinger) | 11 |
 | [@github-actions[bot]](https://github.com/apps/github-actions) | 10 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 10 |
 | [@epage](https://github.com/epage) | 9 |
 | [@camelid](https://github.com/camelid) | 9 |
 | [@tshepang](https://github.com/tshepang) | 9 |
