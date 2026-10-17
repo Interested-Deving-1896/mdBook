@@ -73,7 +73,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@tesuji](https://github.com/tesuji) | 20 |
 | [@JaimeValdemoros](https://github.com/JaimeValdemoros) | 18 |
 | [@frewsxcv](https://github.com/frewsxcv) | 15 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 13 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 14 |
 | [@mbrubeck](https://github.com/mbrubeck) | 13 |
 | [@ISSOtm](https://github.com/ISSOtm) | 12 |
 | [@sunng87](https://github.com/sunng87) | 11 |
@@ -103,18 +103,15 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-This repo uses automated accessibility auditing via `check-accessibility.yml`.
-
-Checks include: CODEOWNERS ownership coverage, README screen-reader compatibility,
-WCAG 2.1 AA HTML compliance, audio overview (espeak-ng), and Braille output (liblouis).
-
+No  was found when this README was generated. Check the
+[Actions tab](https://github.com/Interested-Deving-1896/mdBook/actions) for repository-specific checks, and document an
+accessibility status only when a report or workflow provides evidence for it.
 
 
 
-Run the [Check Accessibility](https://github.com/Interested-Deving-1896/mdBook/actions/workflows/check-accessibility.yml)
-workflow to generate the first report and accessibility artifacts.
+
 See the [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-for the underlying accessibility reference.
+for accessibility guidance.
 <!-- AI:end:accessibility -->
 
 ## License
