@@ -71,8 +71,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@carols10cents](https://github.com/carols10cents) | 22 |
 | [@sorin-davidoi](https://github.com/sorin-davidoi) | 20 |
 | [@tesuji](https://github.com/tesuji) | 20 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 18 |
 | [@JaimeValdemoros](https://github.com/JaimeValdemoros) | 18 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 17 |
 | [@frewsxcv](https://github.com/frewsxcv) | 15 |
 | [@mbrubeck](https://github.com/mbrubeck) | 13 |
 | [@ISSOtm](https://github.com/ISSOtm) | 12 |
